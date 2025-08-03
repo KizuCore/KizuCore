@@ -199,16 +199,16 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=git" alt="icon" width="65" height="65" />
       <br>Git
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=github" alt="icon" width="65" height="65" />
       <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXgxc283eDIyMmoyMmYyYmVwYmc1NmFhb2hmZGd6Y3ZseG9kMHVpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hqrdSW7r1DFsDZwSnR/giphy.gif" alt="icon" width="65" height="65" />
+      <br>GitLab
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postman" alt="icon" width="65" height="65" />
