@@ -276,8 +276,8 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-  <img src="https://raw.githubusercontent.com/Azuriom/Branding/master/logo/logo.png" alt="Azuriom icon" width="65" height="65" />
-  <br/>Azuriom
+  <img src="https://github.com/storybookjs/brand/blob/main/icon/icon-storybook-default.png" alt="Storybook icon" width="65" height="65" />
+  <br/>Storybook
 </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=laravel" alt="icon" width="65" height="65" />
