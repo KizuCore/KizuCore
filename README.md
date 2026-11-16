@@ -28,13 +28,17 @@ Titulaire d’une **Licence Informatique & Électronique à l’ISTIC, Universit
 
 <img src="https://raw.githubusercontent.com/KizuCore/ReadMe/2038ad3/github-profile/stack.svg" width="100%" alt="React, TypeScript, Node.js, Django, Flutter et Docker" />
 
-| Domaine | Technologies et outils |
-| :--- | :--- |
-| Interfaces web | React, TypeScript, Tailwind CSS, Vite |
-| Backend & API | Node.js, Python, Django, Flask, Sequelize |
-| Mobile | Flutter, Dart, Riverpod, Isar |
-| Données | PostgreSQL, MySQL, Drizzle ORM |
-| Tests & livraison | Playwright, Vitest, Bruno, Docker, GitLab CI/CD, Linux, Vercel |
+| Catégorie               | Stack                                             |
+| :---------------------- | :------------------------------------------------ |
+| Langages                | TypeScript, JavaScript, Python, Dart              |
+| Web                     | React, Vue.js, Tailwind CSS, Vite, TanStack Start |
+| Backend & API           | Node.js, Django, Flask                            |
+| Mobile                  | Flutter, Riverpod, GoRouter                       |
+| Bases de données & ORM  | PostgreSQL, MySQL, Isar, Drizzle ORM, Sequelize   |
+| Tests                   | Vitest, Playwright, Bruno                         |
+| Infrastructure & CI/CD  | Docker, Linux, Nginx, GitLab CI/CD                |
+| Hébergement             | Vercel, AWS, OVH                                  |
+| Outils de développement | Git, GitHub, GitLab, Visual Studio Code, Figma    |
 
 ## Quelques projets à explorer
 
