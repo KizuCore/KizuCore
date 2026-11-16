@@ -22,7 +22,7 @@ Je développe avec **React et TypeScript** pour le web, **Django et Node.js** po
 
 J’aime comprendre l’usage avant de choisir les outils : un parcours clair, des données bien organisées et des tests sur ce qui compte vraiment.
 
-Titulaire d’une **Licence Informatique & Électronique à l’ISTIC, Université de Rennes 1 (2023)**, puis diplômé en **2026 d’un MBA Développeur Web Full-Stack** — titre RNCP de niveau 7 « Manager de Projet Web Digital », parcours Développement Digital.
+Titulaire d’une **Licence Informatique & Électronique à l’ISTIC, Université de Rennes 1 (2023)**, puis diplômé en **2026 d’un MBA Développeur Web Full-Stack** - titre RNCP de niveau 7 « Manager de Projet Web Digital », parcours Développement Digital.
 
 ## Ma boîte à outils
 
