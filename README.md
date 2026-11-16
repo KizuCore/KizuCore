@@ -1,310 +1,89 @@
-<img
-  width="100%"
-  title="Greeting Words"
-  alt="CoderAbhi.0713"
-  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,24&height=150%C2%A7ion=header&text=Thank%20you%20for%20your%20visit%20%F0%9F%91%8B%F0%9F%8F%BD&fontSize=34&fontColor=fff&animation=twinkling&fontAlignY=26"
-  />
-<h1 align="center">🤝- Presentation</h1>
-<br>
-<table  align="center">
-  <tr>
-    <td>
-      <a href="https://theo-guerin.fr/" target="_blank">
-      <img align="middle" src="https://raw.githubusercontent.com/KizuCore/README/main/images/Avatar.svg" alt="Theo Guerin | Avatar" width="120px"/>
-      </a>
-    </td>
-    <td>
-      <ul>
-        <li>👋 Hello, I'm @KizuCore</li>
-        <li>📌 Welcome to my little universe!</li>
-        <li>👨‍💻 I'm a FullStack Web Developer</li>
-        <li>👔 2nd year Master FullStack Web Developer</li>
-        <li>💻 <a href="https://theo-guerin.fr/" target="_blank">Theo-guerin.fr</a></li>
-      </ul>
-    </td>
-  </tr>
-</table>
-<br>
-<h1 align="center">📱 - Contact with Me</h1>
-<div align="center">
-  <a href="https://www.linkedin.com/in/théo-guérin-b20630192/" target="_blank">
-    <img src="https://raw.githubusercontent.com/KizuCore/README/main/images/linkedin.svg" alt="Theo Guerin | LinkedIn" width="40px" height="40px" />
+<a href="https://theo-guerin.fr/fr">
+  <img src="https://raw.githubusercontent.com/KizuCore/ReadMe/2038ad3/github-profile/banner.svg" width="100%" alt="Théo Guérin · KizuCore — Développeur web et mobile, freelance à Rennes. Un univers bleu nuit et étoilé." />
+</a>
+
+<p align="center">
+  <a href="https://theo-guerin.fr/fr"><strong>Portfolio</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://theo-guerin.fr/fr/cv">CV</a>
+  &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/theo-guerin35/">LinkedIn</a>
+  &nbsp; · &nbsp;
+  <a href="https://gitlab.com/Theo35000">GitLab</a>
+  &nbsp; · &nbsp;
+  <a href="mailto:theo.guerin35000@gmail.com">Contact</a>
+</p>
+
+## Du besoin à la mise en ligne
+
+Moi, c’est **Théo**, développeur full-stack basé à **Rennes**, aussi connu sous le nom de **KizuCore**. Je conçois des sites internet, des applications web et mobiles, et les API qui les font fonctionner.
+
+Je développe avec **React et TypeScript** pour le web, **Django et Node.js** pour les API, et **Flutter** pour le mobile. Mes projets vont du site vitrine aux applications avec paiement en ligne, gestion de données ou fonctionnement hors connexion.
+
+J’aime comprendre l’usage avant de choisir les outils : un parcours clair, des données bien organisées et des tests sur ce qui compte vraiment.
+
+Titulaire d’une **Licence Informatique & Électronique à l’ISTIC, Université de Rennes 1 (2023)**, puis diplômé en **2026 d’un MBA Développeur Web Full-Stack** — titre RNCP de niveau 7 « Manager de Projet Web Digital », parcours Développement Digital.
+
+## Ma boîte à outils
+
+<img src="https://raw.githubusercontent.com/KizuCore/ReadMe/2038ad3/github-profile/stack.svg" width="100%" alt="React, TypeScript, Node.js, Django, Flutter et Docker" />
+
+| Domaine | Technologies et outils |
+| :--- | :--- |
+| Interfaces web | React, TypeScript, Tailwind CSS, Vite |
+| Backend & API | Node.js, Python, Django, Flask, Sequelize |
+| Mobile | Flutter, Dart, Riverpod, Isar |
+| Données | PostgreSQL, MySQL, Drizzle ORM |
+| Tests & livraison | Playwright, Vitest, Bruno, Docker, GitLab CI/CD, Linux, Vercel |
+
+## Quelques projets à explorer
+
+### La Marée Malouine
+
+Une application **Click & Collect pour une poissonnerie** : catalogue, paiement Stripe, créneaux de retrait et espace commerçant. Le backend coordonne les réservations de stock, les paiements et les notifications.
+
+`React` `TypeScript` `TanStack Start` `PostgreSQL` `Stripe` `Docker`
+
+[Étude de cas](https://theo-guerin.fr/fr/realisations/la-maree-malouine) · [Voir le site](https://lamareemalouine.fr/) · [Code sur GitLab](https://gitlab.com/Theo22100/La-Maree-Malouine)
+
+### Les Portes de Montafilan
+
+Un **site de gîte relié aux outils du propriétaire** : tarifs modifiables dans Google Sheets, indisponibilités Airbnb via iCal et estimation du séjour. La réservation se poursuit sur Airbnb.
+
+`React` `TypeScript` `Tailwind CSS` `Google Sheets` `Vitest` `Playwright`
+
+[Étude de cas](https://theo-guerin.fr/fr/realisations/les-portes-de-montafilan) · [Voir le site](https://www.lesportesdemontafilan.com/) · [Code sur GitHub](https://github.com/KizuCore/PortesDeMontafilan)
+
+### À table !
+
+Une **application personnelle pour organiser sa cuisine** : inventaire alimentaire, dates de péremption, calendrier et rappels. Les données restent sur l’appareil pour une utilisation hors connexion.
+
+`Flutter` `Dart` `Riverpod` `Isar` `GoRouter`
+
+[Étude de cas](https://theo-guerin.fr/fr/realisations/a-table) · [Code sur GitHub](https://github.com/KizuCore/a_table)
+
+**[Découvrir mes autres réalisations](https://theo-guerin.fr/fr/project)**
+
+## Mon activité sur GitHub
+
+<p align="center">
+  <a href="https://github.com/KizuCore">
+    <img width="480" src="https://github-stats-extended.vercel.app/api?username=KizuCore&amp;show_icons=true&amp;card_width=480&amp;hide_rank=true&amp;locale=fr&amp;bg_color=101c2e&amp;title_color=a6c8fa&amp;text_color=dce8f8&amp;icon_color=a6c8fa&amp;border_color=2d4059&amp;border_radius=12&amp;disable_animations=true" alt="Statistiques GitHub de KizuCore" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:Theo.Guerin35000@gmail.com">
-    <img src="https://raw.githubusercontent.com/KizuCore/README/main/images/Gmail.svg" alt="Theo Guerin | Gmail" width="40px" height="40px" />
+</p>
+<p align="center">
+  <a href="https://github.com/KizuCore?tab=repositories">
+    <img width="480" src="https://github-stats-extended.vercel.app/api/top-langs/?username=KizuCore&amp;layout=compact&amp;langs_count=8&amp;card_width=480&amp;locale=fr&amp;bg_color=101c2e&amp;title_color=a6c8fa&amp;text_color=dce8f8&amp;border_color=2d4059&amp;border_radius=12&amp;disable_animations=true" alt="Langages des dépôts publics GitHub de KizuCore" />
   </a>
-</div>
-<br>
-<h1 align="center">💻 - Languages and Tools</h1>
-<h2 align="center">🌟 - Programming Languages </h1>
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-      <br><br>PHP
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
-      <br>Java
-    </td>
-  </tr>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=kotlin" alt="icon" width="65" height="65" />
-    <br>Kotlin
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=cpp" alt="icon" width="65" height="65" />
-    <br>C++
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=bash" alt="icon" width="65" height="65" />
-    <br>Bash
-  </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=scala" alt="Scala icon" width="65" height="65" />
-      <br>Scala
-    </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="Excel / VBA icon" width="65" height="65" />
-      <br>VBA
-    </td>
-</table>
-<h2 align="center">🌟 - Front-End </h1>
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=flutter" alt="icon" width="65" height="65" />
-      <br>Flutter
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=next" alt="icon" width="65" height="65" />
-      <br>Next.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vue" alt="icon" width="65" height="65" />
-      <br>Vue.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=angular" alt="icon" width="65" height="65" />
-      <br>Angular
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" alt="icon" width="65" height="65" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bootstrap" alt="icon" width="65" height="65" />
-      <br>Bootstrap
-  </tr>
-</table>
-<h2 align="center">🌟 - Back-End </h1>
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="65" height="65" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=express" alt="icon" width="65" height="65" />
-      <br>ExpressJS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=flask" alt="icon" width="65" height="65" />
-      <br>Flask
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django
-    </td>
-  </tr>
-</table>
-<br>
-<h2 align="center">🌟 - Nocode / Lowcode </h1>
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=wordpress" alt="icon" width="65" height="65" />
-      <br>Wordpress
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=flutter" alt="icon" width="65" height="65" />
-      <br>Wix
-    </td>
-  </tr>
-</table>
-<br>
-<h2 align="center">🌟 - Database </h1>
-<table align="center">
-  <td align="center" width="96">
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-    <br>MySQL
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=postgresql" alt="icon" width="65" height="65" />
-    <br>PostgreSQL
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=sqlite" alt="icon" width="65" height="65" />
-    <br>SQLite
-  </td>
-</table>
-<br/>
-<h2 align="center">🌟 - Hosting/Cloud Services </h1>
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vercel" alt="icon" width="65" height="65" />
-      <br>Vercel
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nginx" alt="icon" width="65" height="65" />
-      <br>Nginx
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=netlify" alt="icon" width="65" height="65" />
-      <br>Netlify
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=heroku" alt="icon" width="65" height="65" />
-      <br>Heroku
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=aws" alt="icon" width="65" height="65" />
-      <br>AWS
-    </td>
-  </tr>
-</table>
-<br/>
-<h2 align="center">🌟 - Other Tools </h1>
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" alt="icon" width="65" height="65" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" alt="icon" width="65" height="65" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXgxc283eDIyMmoyMmYyYmVwYmc1NmFhb2hmZGd6Y3ZseG9kMHVpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hqrdSW7r1DFsDZwSnR/giphy.gif" alt="icon" width="65" height="65" />
-      <br>GitLab
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" alt="icon" width="65" height="65" />
-      <br>Postman
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
-      <br>Docker
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vite" alt="icon" width="65" height="65" />
-      <br>Vite
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
-      <br>REST API
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
-      <br>GraphQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" alt="icon" width="65" height="65" />
-      <br>VS Code
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=visualstudio" alt="icon" width="65" height="65" />
-      <br>VS
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ icon" width="65" height="65" />
-      <br/>IntelliJ
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=npm" alt="icon" width="65" height="65" />
-      <br>NPM
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=yarn" alt="icon" width="65" height="65" />
-      <br>Yarn
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=androidstudio" alt="icon" width="65" height="65" />
-      <br>Android Studio
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" alt="icon" width="65" height="65" />
-      <br>Linux
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="65" height="65" />
-      <br>Figma
-    </td>
-  </tr>
-</table>
-<br>
-<h1 align="center">🌱 - I am currently working on :</h1>
-<br>
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-  <img src="https://github.com/storybookjs/brand/blob/main/icon/icon-storybook-default.png" alt="Storybook icon" width="65" height="65" />
-  <br/>Storybook
-</td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=laravel" alt="icon" width="65" height="65" />
-      <br>Laravel
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=swift" alt="icon" width="65" height="65" />
-      <br>Swift
-    </td>
-  </tr>
-</table>
-<br>
+</p>
+<p align="center">
+  <a href="https://github.com/KizuCore">
+    <img width="480" src="https://streak-stats.demolab.com?user=KizuCore&amp;locale=fr&amp;mode=daily&amp;background=101C2E&amp;border=2D4059&amp;stroke=2D4059&amp;ring=A6C8FA&amp;fire=A6C8FA&amp;currStreakNum=DCE8F8&amp;sideNums=DCE8F8&amp;currStreakLabel=A6C8FA&amp;sideLabels=A6C8FA&amp;dates=A6B6CE&amp;border_radius=12&amp;disable_animations=true" alt="Contributions GitHub de KizuCore : série actuelle et plus longue série" />
+  </a>
+</p>
 
-<h1 align="center">🚀 - GitHub Stats</h1>
-<br/>
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KizuCore&layout=donut&theme=dark" alt="Top Langs" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api?username=KizuCore&show_icons=true&theme=dark" alt="GitHub Stats" height="160" />
-</div>
+**Un site à créer, une application à faire évoluer ou une API à connecter ?**
 
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=KizuCore&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="GitHub Streak" height="220" />
-</div>
-
-
-
-<img width=100% title="Coder Abhi." alt="RBrooks76" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,24&height=150&section=footer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+[Parlons de votre projet](https://theo-guerin.fr/fr/contact) · [theo.guerin35000@gmail.com](mailto:theo.guerin35000@gmail.com)
